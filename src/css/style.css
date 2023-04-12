@@ -355,6 +355,10 @@ body {
     height: 38px;
 }
 
+input[type="email"] {
+    text-align: right;
+}
+
 
 #footer-copyright-social {
     background-color: #151515;
